@@ -52,7 +52,7 @@ Role Detection: Based on player attributes (Role and DeathRole)
 👨‍💻 Author
 Great
 
-Discord: discord.gg/nTMYauyf59
+Discord Server: https://discord.gg/nTMYauyf59
 
 ⚠️ Disclaimer
 This script is for educational purposes only. Use at your own risk. The author is not responsible for any bans or penalties incurred.
