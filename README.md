@@ -60,4 +60,5 @@ This script is for educational purposes only. Use at your own risk. The author i
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-![Release](<img width="2559" height="1342" alt="image" src="https://github.com/user-attachments/assets/09020c7a-c4b4-41d2-95db-2018c9095e2f" />)
+<img width="2559" height="1342" alt="image" src="https://github.com/user-attachments/assets/477a7d54-e024-4a25-a49e-e69e1f64e317" />
+
